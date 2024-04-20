@@ -48,6 +48,15 @@ To get the most out of this course, you should have:
 - Familiarity with programming (preferably in Python)
 - Enthusiasm to learn and explore the fascinating intersection of statistics and Machine Learning!
 
+# 📚 Learn with Us!
+We also offer a [course on these contents](https://www.pytopia.ai/courses/statistics) where learners can interact with peers and instructors, ask questions, and participate in online coding sessions. By registering for the course, you also gain access to our dedicated Telegram group where you can connect with other learners and share your progress. Enroll now and start learning! Here are some useful links:
+
+- [Statistics Course](https://www.pytopia.ai/courses/statistics)
+- [Pytopia Public Telegram Group](https://t.me/pytopia_ai)
+- [Pytopia Website](https://www.pytopia.ai/)
+
+[<img src="./images/pytopia-course.png" width="800">](https://www.pytopia.ai/courses/statistics)
+
 ## 🚀 Getting Started
 
 To get started with the course, follow these steps:
