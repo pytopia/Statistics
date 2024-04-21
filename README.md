@@ -1,10 +1,10 @@
 <img src="./images/banner.png" width="800">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/pytopia/machine-learning-101)
-![GitHub repo size](https://img.shields.io/github/repo-size/pytopia/machine-learning-101)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/pytopia/machine-learning-101)
-![GitHub Repo stars](https://img.shields.io/github/stars/pytopia/machine-learning-101)
-![GitHub top language](https://img.shields.io/github/languages/top/pytopia/machine-learning-101)
+![GitHub last commit](https://img.shields.io/github/last-commit/pytopia/statistics)
+![GitHub repo size](https://img.shields.io/github/repo-size/pytopia/statistics)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/pytopia/statistics)
+![GitHub Repo stars](https://img.shields.io/github/stars/pytopia/statistics)
+![GitHub top language](https://img.shields.io/github/languages/top/pytopia/statistics)
 [![Website](https://img.shields.io/badge/Visit-Website-blue)](https://www.pytopia.ai)
 [![Telegram](https://img.shields.io/badge/Join-Telegram-blue)](https://t.me/pytopia_ai)
 [![Instagram](https://img.shields.io/badge/Follow-Instagram-red)](https://instagram.com/pytopia.ai)
