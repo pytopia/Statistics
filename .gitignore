@@ -161,3 +161,4 @@ cython_debug/
 
 # custom
 *test.ipynb
+*.DS_Store
